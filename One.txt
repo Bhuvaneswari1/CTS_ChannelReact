@@ -1,2 +1,0 @@
-Hello welcome to powershell
-You are working on it
